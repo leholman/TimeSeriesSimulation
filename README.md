@@ -1,2 +1,4 @@
 # TimeSeriesSimulation
-A small experiment to simulate changes in the environment and species composition  
+A small experiment to simulate changes in the environment and species composition. 
+
+Work in progress  
